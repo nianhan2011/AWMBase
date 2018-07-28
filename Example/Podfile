@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AWMBase_Example' do
+  pod 'AWMBase', :path => '../'
+
+  target 'AWMBase_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
