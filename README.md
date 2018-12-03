@@ -22,7 +22,7 @@ pod 'AWMBase'
 
 ## Author
 
-yinfan, yinfan@luochen.com
+yinfan
 
 ## License
 
